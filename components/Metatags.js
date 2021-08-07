@@ -1,15 +1,15 @@
 import Head from 'next/head';
 
 export default function Metatags({
-  title = 'The Full Next.js + Firebase Course',
-  description = 'A complete Next.js + Firebase course by Fireship.io',
+  title = 'Charcha | Believe, Blog, Bewitch ',
+  description = 'A blogging platform',
   image = 'https://fireship.io/courses/react-next-firebase/img/featured.png',
 }) {
   return (
     <Head>
       <title>{title}</title>
       <meta name="twitter:card" content="summary" />
-      <meta name="twitter:site" content="@fireship_dev" />
+      <meta name="twitter:site" content="@theankitsanghvi" />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={image} />
