@@ -1,11 +1,6 @@
-## Next.js + Firebase - The Full Course
+## Nextfire = Next.js + Firebase
 
-- [Live Demo](https://next.fireship.io/)
-- [Enroll in the Course](https://fireship.io/courses/react-next-firebase/)
-
-Become an expert at React, Next.js, and Firebase by building a social blogging community from scratch. 
-
-Build a complex webapp inspired by sites Dev.to and Medium, featuring...
+Built a complex webapp inspired by sites Dev.to and Medium, featuring...
 
 - 👨‍🎤 Custom Firebase usernames
 - 📰 Bot-friendly content (SEO)
