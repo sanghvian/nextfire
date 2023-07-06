@@ -1,4 +1,4 @@
-## Nextfire = Next.js + Firebase
+## Nextfire = Next.js + Firebase project
 
 Built a complex webapp inspired by sites Dev.to and Medium, featuring...
 
